@@ -20,6 +20,9 @@ public class Main {
                 repeticoes++;
             }
         }
+        // Saida de informacoes
+        System.out.println(" ==> Numero repetido: " + x);
+        System.out.println(" ==> Numero de repeticoes: "+ repeticoes);
 
 
     }
