@@ -5,12 +5,20 @@ public class Main {
         System.out.println(" ==> Tamanho do array: ");
         int t = sc.nextInt();
         int []v= new int[t];
-        int p = t;
+        int p = t, repeticoes =0;
         // For loop para preencher o array
         for(int i =0; i < v.length; i++){
             System.out.println(" ==> Preencha o array com " + p + " espacos: ");
             v[i]=sc.nextInt();
             p--;
+        }
+        // Aquisicao do numero repetido
+        System.out.println(" ==> Insira o numero repetido: ");
+        int x = sc.nextInt();
+        for(int i = 0; i < v.length; i++){
+            if(v[i]==x){
+                repeticoes++;
+            }
         }
 
 
