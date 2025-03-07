@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bc23b09d-79f7-4713-baeb-8948a6ac5c80" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,10 +15,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2ozFhEYgpPrdrSJNEIANjmpYtGg" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,6 +30,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Araozinho/Documents/Programacao/Cursos/Java Courses/Java Crash Courses/Projects/01 - Hello World",
     "onboarding.tips.debug.path": "C:/Users/Araozinho/Documents/ISUTC/Engenharia e Ciencia de Computadores/1 Ano/II Semestre/Programacao I/Projectos .InteliJ/Ficha 06/Exercicio07/src/Main.java"
   }
 }]]></component>
