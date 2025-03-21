@@ -43,7 +43,7 @@ Cada pasta corresponde a uma ficha de exercícios, contendo os arquivos Java com
 Se encontrar erros ou tiver sugestões de melhoria, fique à vontade para abrir uma **issue** ou enviar um **pull request**.
 
 ## Autor
-- **[Arao Sibinde Junior]** - Estudante de Ciência da Computação
+- **Arao Sibinde Junior** - Estudante de Ciência da Computação
 
 
 
