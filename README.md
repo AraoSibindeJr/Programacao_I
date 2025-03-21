@@ -1,4 +1,4 @@
-# Repositório de Exercícios de Programação I
+# Programação I
 
 Este repositório contém a resolução de todos os exercícios abordados na cadeira de **Programação I**, organizados por fichas de exercícios. Cada código está devidamente comentado para facilitar o entendimento e auxiliar no aprendizado.
 
